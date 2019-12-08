@@ -4,3 +4,6 @@
 [submodule "bhromaon"]
 	path = bhromaon
 	url = https://github.com/Forestbound/bhromaon.git
+[submodule "portal"]
+	path = portal
+	url = https://github.com/Forestbound/portal.git
